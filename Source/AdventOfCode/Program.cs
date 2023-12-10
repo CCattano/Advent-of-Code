@@ -3,7 +3,7 @@ using AdventOfCode.Puzzles._2023;
 
 const int year = 2023;
 const int day = 5;
-const int part = 1;
+const int part = 2;
 
 BasePuzzleYear puzzleYear = year switch
 {
