@@ -1,9 +1,9 @@
 ﻿using AdventOfCode.Infrastructure;
 using AdventOfCode.Puzzles._2023;
 
-int year = 2023;
-int day = 4;
-int part = 2;
+const int year = 2023;
+const int day = 5;
+const int part = 1;
 
 BasePuzzleYear puzzleYear = year switch
 {
