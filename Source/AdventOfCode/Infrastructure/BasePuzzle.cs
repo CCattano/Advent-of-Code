@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-namespace AdventOfCode.Infrastructure;
+﻿namespace AdventOfCode.Infrastructure;
 
 public abstract class BasePuzzle(int year)
 {

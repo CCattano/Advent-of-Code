@@ -2,7 +2,7 @@
 using AdventOfCode.Puzzles._2023;
 
 int year = 2023;
-int day = 1;
+int day = 2;
 int part = 2;
 
 BasePuzzleYear puzzleYear = year switch
